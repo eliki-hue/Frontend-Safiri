@@ -86,8 +86,9 @@ export default function Home(){
         <div className="container">
         
             <div className='about text-center'>
-                <h2 className="p-4">About Us</h2>
+               
                 <p>Safiri is a transport company based in Nairobi that offer bus transport service to and from Nairobi at very affodable cost.</p>
+                 
                   <p>Safiri allows you to check the available bus online without having to physically appear at the bus terminal hence saving you time and cost.</p><p> You can also book a seat online and check when the bus will be leaving. </p>
             </div>
         </div>
